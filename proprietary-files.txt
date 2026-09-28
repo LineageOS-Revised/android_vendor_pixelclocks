@@ -1,0 +1,13 @@
+#
+# SPDX-FileCopyrightText: 2026 The LineageOS Project
+# SPDX-License-Identifier: Apache-2.0
+#
+
+# Pixel Clocks from rango-cp2a.260605.012-factory-b6d754ad.zip
+system_ext/priv-app/SystemUIClocks-BigNum/SystemUIClocks-BigNum.apk|6bd418743a3d5bec0035d5f724ca5a2a51ddcd72
+system_ext/priv-app/SystemUIClocks-Calligraphy/SystemUIClocks-Calligraphy.apk|213e4d3347882018872fa3308c88d8d64815c5fc
+system_ext/priv-app/SystemUIClocks-Growth/SystemUIClocks-Growth.apk|76665caf88d52aecdcd99bcab2253256b9677b29
+system_ext/priv-app/SystemUIClocks-Inflate/SystemUIClocks-Inflate.apk|f17d9cc5a0ef08efe965ba421f6d711ebfc2cbd8
+system_ext/priv-app/SystemUIClocks-Metro/SystemUIClocks-Metro.apk|a6f08fa77fc065db17c67fa16093a0ec99efd338
+system_ext/priv-app/SystemUIClocks-NumOverlap/SystemUIClocks-NumOverlap.apk|8fd618510510620368b9f513b98190faca848da1
+system_ext/priv-app/SystemUIClocks-Weather/SystemUIClocks-Weather.apk|aa67c4f0a7a6f40a531067f910f10316e67c7891
